@@ -1,0 +1,19 @@
+{
+  "name": "poc-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FellipeMedeirosSilva/poc-api.git"
+  },
+  "author": "Fellipe Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FellipeMedeirosSilva/poc-api/issues"
+  },
+  "homepage": "https://github.com/FellipeMedeirosSilva/poc-api#readme"
+}
